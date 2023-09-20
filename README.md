@@ -2,7 +2,7 @@ Z
 [![Masterhead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm RaoAliMurad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" width="400' src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3jS4he3d7GBaBzMMxJ1ObH&ust=1695287958824000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjZqvftuIEDFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoalimurad" alt="raoalimurad" /></a> </p>
