@@ -1,8 +1,8 @@
-
+Z
 [![Masterhead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm RaoAliMurad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoalimurad" alt="raoalimurad" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoalimurad&label=Profile%20views&color=0e75b6&style=flat" alt="raoalimurad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoalimurad" alt="raoalimurad" /></a> </p>
