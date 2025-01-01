@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://s3-alpha.figma.com/hub/file/5678700701/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rao Ali Murad</h1>
 <h3 align="center">Passionate MERN Stack Developer | Building Seamless Web Experiences from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
