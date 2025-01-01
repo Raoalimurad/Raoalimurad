@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCb80a1v3CkWiGqbF0nCqjGQbt1aF9PZ1sw&s" alt="GitHub Banner" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg38lOeI96suHFDdar3kmSSdVZ6ymG72I4cQ&s" alt="GitHub Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Rao Ali Murad</h1>
 <h3 align="center">Passionate MERN Stack Developer | Building Seamless Web Experiences from Pakistan</h3>
